@@ -20,12 +20,13 @@ def generate_bs():
     """
     Generate now
     """
-    print(
-        select_bs_word("adverbs")       + " " +
-        select_bs_word("verbs")         + " " +
-        select_bs_word("adjectives")    + " " +
-        select_bs_word("nouns")
-        )
+    ADVERB      = select_bs_word("adverbs")
+    VERB        = select_bs_word("verbs")
+    ADJECTIVE   = select_bs_word("adjectives")
+    NOUN        = select_bs_word("nouns")
+    
+    BS_WORD     = ADVERB + " " + VERB + " " + ADJECTIVE + " " + NOUN
+    print(BS_WORD)
 
 
 #############################################
