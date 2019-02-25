@@ -4,18 +4,15 @@
  # Run Mode
 
  ```
-[slamba ◯  WHM0005395  19.BS-Generator ] ☘   for i in `seq 1 10`
-> do
-> python generator-bullshit.py
-> done
-progressively engage fully researched results
-phosfluorescently streamline focused nosql
-progressively unleash turnkey total linkage
-progressively deploy extensible platforms
-dynamically visualize dynamic total linkage
-seamlessly integrate high-payoff bandwidth
-authoritatively synthesize fully tested alignments
-continually mesh future-proof web-readiness
-assertively seize team driven partnerships
-objectively engineer market positioning fungibility
+[slamba ◯  WHM0005395  19.BS-Generator ] ☘   for i in `seq 1 10`; do echo " $i. `python generator-bullshit.py`"; done
+ 1. continually unleash leveraged platforms
+ 2. completely integrate client-centered synergy
+ 3. synergistically fashion compelling portals
+ 4. seamlessly promote fully tested leadership
+ 5. globally transition out-of-the-box products
+ 6. assertively restore just in time core competencies
+ 7. holisticly pontificate extensible convergence
+ 8. intrinsically actualize focused users
+ 9. enthusiastically embrace efficient markets
+ 10. uniquely cultivate go forward technology
  ```
